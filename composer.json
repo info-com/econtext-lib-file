@@ -14,6 +14,5 @@
         "psr-4": {
             "eContext\\File\\": "src/php/econtext-lib-file/"
         }
-    },
-
+    }
 }
