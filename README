@@ -1,0 +1,5 @@
+Provides an object oriented File interface with format handlers to CSV, JSON, and plain text.
+
+The only purpose here is to simplify things a little bit when working with files.
+
+Comes packaged with a TempFile class as well.

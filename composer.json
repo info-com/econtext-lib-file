@@ -1,0 +1,19 @@
+{
+    "name": "info-com/econtext-lib-file",
+    "description": "Provides a simple OO File",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Spalink",
+            "email": "jspalink@info.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "eContext\\File\\": "src/php/econtext-lib-file/"
+        }
+    },
+
+}
