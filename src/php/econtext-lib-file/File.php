@@ -158,7 +158,7 @@ class File {
 			$this->mode = null;
 			$this->file = null;
 			$this->open = false;
-			throw new Exception("Unable to open file {$this->filepath}");
+			throw new \Exception("Unable to open file {$this->filepath}");
 		}
 		$this->open = true;
 		return true;
